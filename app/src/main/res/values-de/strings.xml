@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">S3</string>
+    <string name="welcome">Willkommen</string>
+    <string name="button_login">Betreten</string>
+</resources>
